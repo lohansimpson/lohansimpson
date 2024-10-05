@@ -2,8 +2,21 @@
 
 I am a software engineer. I like coding and reverse engineering.
 
-Here are some Tools i use:
+- 🔭 I’m currently working on, [X-Feature-flags](https://github.com/lohansimpson/x-feature-flags) / other secret projects.
 
-- 🔭 I’m currently working on, [X-Feature-flags](https://github.com/lohansimpson/x-feature-flags)
-- 👯 I’m looking to collaborate on ...
 
+## Here are some Tools i use:
+
+- posthog
+- proxmox/vms
+- nginx
+- redis
+- docker
+- wordpress
+- Shopify
+- after effects
+- photoshop
+- figma
+- mysql
+- Cloud Services
+- DNS
