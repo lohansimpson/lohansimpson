@@ -7,16 +7,18 @@ I am a software engineer. I like coding and reverse engineering.
 
 ## Here are some Tools i use:
 
-- posthog
-- proxmox/vms
-- nginx
-- redis
-- docker
+- Posthog
+- Vm's
+- Linux
+- Web Servers (nginx/caddy)
+- Databases (redis/mysql)
+- Docker
 - wordpress
 - Shopify
 - after effects
 - photoshop
 - figma
-- mysql
 - Cloud Services
 - DNS
+- Reactjs
+- Nodejs
